@@ -1,0 +1,10 @@
+ul{
+    display: inline-block;
+}
+
+body{
+    background-image: url("../images/Pork-Chop-ExpressBW.jpg");
+    width: 535px;
+    height: 488px;
+    background-repeat: repeat;
+}
